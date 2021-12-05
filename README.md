@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=xxxRioxxx.com&style=for-the-badge&url=https%3A%2F%2FxxxRioxxx.com)](https://xxxRioxxx.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/xxxRioxxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxxxRioxxx&screen_name=xxxRioxxx)
 
-## I'm a Developer, Gamer, and i love to make a new projects!!
+## I'm a Developer, Gamer, and i love to make new projects!!
 
 
 - 🔭 I just launched my first course: [NetworkChuck][VIP course]!
