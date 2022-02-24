@@ -69,7 +69,7 @@
 
 ---
 
-[website]: https://aeoncheats.com
+[website]: https://discord.gg/DmznyrNaKc
 [course]: NetWorkChuck
 [youtube]: https://www.youtube.com/channel/UC34FdFqbbfIecS6w2Z_6-xA
 [instagram]: https://instagram.com/kostas_hnr
